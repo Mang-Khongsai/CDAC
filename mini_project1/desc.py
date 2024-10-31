@@ -1,0 +1,1 @@
+print("Hello welcome to first mini project")
