@@ -1,0 +1,4 @@
+Feature Engineering: Feature Engineering is the process of extracting useful features from raw data by using maths, statistical and domain knowledge.
+
+percentile: it is how many values are below that particular value
+eg. 50 percentile = 40: it mean that 50%percent of all the total value are below 40.
